@@ -26,6 +26,7 @@
 | 🔁 Automatizações n8n | Rotinas automatizadas integradas a sistemas públicos | *(projeto interno/privado)*|
 | 🔁 Chatwoot | Implementação da ferramenta Chatwoot para atendimento integrado aos emails e whatsapps institucionais | *(projeto interno/privado)* |
 | 🔁 Saara | Suporte Avançado e Automação de Registros Acadêmicos | *(projeto interno/privado)* |
+| 🔁 Gestor | Sistema de controle de almoxarifado, importação de nota de empenho (.pdf) com automações | *(projeto interno/privado)* |
 ---
 
 ## 📈 Estatísticas do GitHub
