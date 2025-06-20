@@ -22,7 +22,6 @@
 | Projeto               | Descrição                                             | Link                                               |
 |-----------------------|-------------------------------------------------------|----------------------------------------------------|
 | 🎵 Musical Notes       | Aplicação interativa para estudo de notas musicais   | [Ver Online](https://musical-notes.netlify.app/)   |
-| 📊 get_search_aluno    | Integração com API acadêmica para busca de alunos no sistema q-acadêmico   | *(projeto interno/privado)*|
 | 🔁 Automatizações n8n | Rotinas automatizadas integradas a sistemas públicos | *(projeto interno/privado)*|
 | 🔁 Chatwoot | Implementação da ferramenta Chatwoot para atendimento integrado aos emails e whatsapps institucionais | *(projeto interno/privado)* |
 | 🔁 Saara | Suporte Avançado e Automação de Registros Acadêmicos | *(projeto interno/privado)* |
