@@ -12,7 +12,7 @@
 - 🌐 **Front-end**: HTML, CSS, JavaScript, Tailwind CSS  
 - 🛠️ **Bancos de Dados**: PostgreSQL, SQLite  
 - 📊 **APIs e Integrações**: REST, JSON, n8n  
-- ☁️ **Deploy e Infraestrutura**: Netlify, Oracle Cloud, GitHub Pages  
+- ☁️ **Deploy e Infraestrutura**: Netlify, GitHub Pages  
 - ⚙️ **Ferramentas**: Git, Docker, VS Code
 
 ---
